@@ -1,1 +1,5 @@
-# elisha_mafikiri_homework-2
+Homework 2 
+#Rock, Paper, Scissors Game.
+#by Mafi Elisha
+
+Copyright <2020> <Mafi Elisha>
